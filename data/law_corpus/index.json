@@ -1,0 +1,142 @@
+[
+  {
+    "chunk_id": "D_project_Agent-mapping_sample_data_law_corpus_cabinet_decision_73_2023.txt__14c995aac3::Art1::part1",
+    "law_name": "Cabinet Decision No. 73 of 2023",
+    "decision_no": "Cabinet Decision No. 73 of 2023",
+    "article": "1",
+    "effective_date": "2023-06-01",
+    "text": "Article 1\nDefinitions\nRevenue means the gross amount of income derived during a Tax Period, before\ndeducting any expenditure.",
+    "source_path": "D:\\project\\Agent-mapping\\sample_data\\law_corpus\\cabinet_decision_73_2023.txt",
+    "supersedes": ""
+  },
+  {
+    "chunk_id": "D_project_Agent-mapping_sample_data_law_corpus_cabinet_decision_73_2023.txt__14c995aac3::Art2::part2",
+    "law_name": "Cabinet Decision No. 73 of 2023",
+    "decision_no": "Cabinet Decision No. 73 of 2023",
+    "article": "2",
+    "effective_date": "2023-06-01",
+    "text": "Article 2\nSmall Business Relief\n1. A Resident Person may elect to be treated as not having derived any Taxable\n   Income for a Tax Period, and shall accordingly not be required to calculate\n   its Taxable Income for that period, where its Revenue for the relevant Tax\n   Period and previous Tax Periods does not exceed AED 3,000,000 (three million\n   dirhams) for each such Tax Period.\n2. The election under paragraph 1 is not available to a Qualifying Free Zone\n   Person or a member of a Multinational Enterprise Group as defined for the\n   purposes of Cabinet Decision No. 44 of 2020 on Organising Reports Submitted by\n   Multinational Companies.\n3. The Revenue threshold in paragraph 1 shall apply for Tax Periods commencing\n   on or after 1 June 2023 and ending on or before 31 December 2026.",
+    "source_path": "D:\\project\\Agent-mapping\\sample_data\\law_corpus\\cabinet_decision_73_2023.txt",
+    "supersedes": ""
+  },
+  {
+    "chunk_id": "D_project_Agent-mapping_sample_data_law_corpus_decree_law_47_2022.txt__93bbedf315::Art3::part1",
+    "law_name": "Federal Decree-Law No. 47 of 2022",
+    "decision_no": "Federal Decree-Law No. 47 of 2022",
+    "article": "3",
+    "effective_date": "2023-06-01",
+    "text": "Article 3\nCorporate Tax Rate\n1. Corporate Tax shall be imposed on the Taxable Income of a Taxable Person at the\n   following rates:\n   a. 0% (zero percent) on the portion of Taxable Income not exceeding AED 375,000.\n   b. 9% (nine percent) on the portion of Taxable Income exceeding AED 375,000.\n2. A Qualifying Free Zone Person shall be subject to Corporate Tax at the rate of 0%\n   on Qualifying Income and 9% on Taxable Income that is not Qualifying Income, as\n   further specified in Article 18 of this Decree-Law.",
+    "source_path": "D:\\project\\Agent-mapping\\sample_data\\law_corpus\\decree_law_47_2022.txt",
+    "supersedes": ""
+  },
+  {
+    "chunk_id": "D_project_Agent-mapping_sample_data_law_corpus_decree_law_47_2022.txt__93bbedf315::Art18::part2",
+    "law_name": "Federal Decree-Law No. 47 of 2022",
+    "decision_no": "Federal Decree-Law No. 47 of 2022",
+    "article": "18",
+    "effective_date": "2023-06-01",
+    "text": "Article 18\nQualifying Free Zone Person\n1. A Qualifying Free Zone Person shall benefit from a rate of 0% on its Qualifying\n   Income, provided the conditions in this Article and any relevant Ministerial\n   Decision are met, including maintaining adequate substance in the Free Zone,\n   deriving Qualifying Income as specified by Cabinet Decision, and complying with\n   the arm's length principle and transfer pricing documentation requirements.\n2. Qualifying Income includes income derived from transactions with other Free Zone\n   Persons that are Qualifying Free Zone Persons, and income derived from qualifying\n   activities as specified in a Ministerial Decision, excluding Excluded Activities.",
+    "source_path": "D:\\project\\Agent-mapping\\sample_data\\law_corpus\\decree_law_47_2022.txt",
+    "supersedes": ""
+  },
+  {
+    "chunk_id": "D_project_Agent-mapping_sample_data_law_corpus_decree_law_47_2022.txt__93bbedf315::Art22::part3",
+    "law_name": "Federal Decree-Law No. 47 of 2022",
+    "decision_no": "Federal Decree-Law No. 47 of 2022",
+    "article": "22",
+    "effective_date": "2023-06-01",
+    "text": "Article 22\nExempt Income\n1. Dividends and other profit distributions received from a juridical person that\n   is a Resident Person shall be exempt from Corporate Tax.\n2. Dividends and other profit distributions received from a Participating Interest\n   in a foreign juridical person shall be exempt, subject to meeting the\n   Participating Interest conditions of ownership percentage and minimum holding\n   period set out in a Cabinet Decision.",
+    "source_path": "D:\\project\\Agent-mapping\\sample_data\\law_corpus\\decree_law_47_2022.txt",
+    "supersedes": ""
+  },
+  {
+    "chunk_id": "D_project_Agent-mapping_sample_data_law_corpus_decree_law_47_2022.txt__93bbedf315::Art23::part4",
+    "law_name": "Federal Decree-Law No. 47 of 2022",
+    "decision_no": "Federal Decree-Law No. 47 of 2022",
+    "article": "23",
+    "effective_date": "2023-06-01",
+    "text": "Article 23\nParticipation Exemption\n1. A gain or loss arising from the transfer, sale, or other disposition of a\n   Participating Interest shall be exempt from Corporate Tax, provided the\n   Participating Interest conditions are satisfied at the time of disposal,\n   including a minimum ownership interest of 5% held for an uninterrupted period\n   of at least 12 months.",
+    "source_path": "D:\\project\\Agent-mapping\\sample_data\\law_corpus\\decree_law_47_2022.txt",
+    "supersedes": ""
+  },
+  {
+    "chunk_id": "D_project_Agent-mapping_sample_data_law_corpus_decree_law_47_2022.txt__93bbedf315::Art28::part5",
+    "law_name": "Federal Decree-Law No. 47 of 2022",
+    "decision_no": "Federal Decree-Law No. 47 of 2022",
+    "article": "28",
+    "effective_date": "2023-06-01",
+    "text": "Article 28\nInterest\n1. Interest expenditure shall be deductible in the Tax Period in which it is\n   incurred, subject to the general interest deduction limitation rule in Article 30\n   and any specific interest limitation rules applicable to related party\n   transactions.",
+    "source_path": "D:\\project\\Agent-mapping\\sample_data\\law_corpus\\decree_law_47_2022.txt",
+    "supersedes": ""
+  },
+  {
+    "chunk_id": "D_project_Agent-mapping_sample_data_law_corpus_decree_law_47_2022.txt__93bbedf315::Art30::part6",
+    "law_name": "Federal Decree-Law No. 47 of 2022",
+    "decision_no": "Federal Decree-Law No. 47 of 2022",
+    "article": "30",
+    "effective_date": "2023-06-01",
+    "text": "Article 30\nGeneral Interest Deduction Limitation Rule\n1. Net Interest Expenditure shall be deductible up to 30% (thirty percent) of the\n   Taxable Person's EBITDA for the relevant Tax Period, adjusted for interest,\n   depreciation and amortisation.\n2. Notwithstanding paragraph 1, a Taxable Person may deduct Net Interest\n   Expenditure up to AED 12,000,000 (twelve million dirhams) regardless of the\n   30% of EBITDA limitation, being the de minimis threshold.\n3. Any Net Interest Expenditure disallowed under this Article may be carried\n   forward and deducted in the subsequent ten Tax Periods, subject to the same\n   limitation.",
+    "source_path": "D:\\project\\Agent-mapping\\sample_data\\law_corpus\\decree_law_47_2022.txt",
+    "supersedes": ""
+  },
+  {
+    "chunk_id": "D_project_Agent-mapping_sample_data_law_corpus_decree_law_47_2022.txt__93bbedf315::Art32::part7",
+    "law_name": "Federal Decree-Law No. 47 of 2022",
+    "decision_no": "Federal Decree-Law No. 47 of 2022",
+    "article": "32",
+    "effective_date": "2023-06-01",
+    "text": "Article 32\nEntertainment Expenditure\n1. Expenditure incurred for entertainment, amusement or recreation of customers,\n   shareholders, suppliers or other business partners shall be deductible only to\n   the extent of 50% (fifty percent) of such expenditure.\n2. Fifty percent (50%) of entertainment, amusement and recreation expenditure is\n   non-deductible in determining Taxable Income, regardless of whether the\n   expenditure was incurred wholly and exclusively for the purposes of the\n   Business.",
+    "source_path": "D:\\project\\Agent-mapping\\sample_data\\law_corpus\\decree_law_47_2022.txt",
+    "supersedes": ""
+  },
+  {
+    "chunk_id": "D_project_Agent-mapping_sample_data_law_corpus_decree_law_47_2022.txt__93bbedf315::Art33::part8",
+    "law_name": "Federal Decree-Law No. 47 of 2022",
+    "decision_no": "Federal Decree-Law No. 47 of 2022",
+    "article": "33",
+    "effective_date": "2023-06-01",
+    "text": "Article 33\nNon-Deductible Expenditure\n1. The following expenditure shall not be deductible in determining Taxable\n   Income:\n   a. Donations, grants or gifts made to an entity that is not a Qualifying Public\n      Benefit Entity.\n   b. Fines and penalties, other than amounts awarded as compensation for damages\n      or breach of contract.\n   c. Bribes or other illicit payments.\n   d. Dividends, profit distributions or benefits of a similar nature paid to an\n      owner of the Taxable Person.\n   e. Corporate Tax imposed on the Taxable Person under this Decree-Law.",
+    "source_path": "D:\\project\\Agent-mapping\\sample_data\\law_corpus\\decree_law_47_2022.txt",
+    "supersedes": ""
+  },
+  {
+    "chunk_id": "D_project_Agent-mapping_sample_data_law_corpus_decree_law_47_2022.txt__93bbedf315::Art37::part9",
+    "law_name": "Federal Decree-Law No. 47 of 2022",
+    "decision_no": "Federal Decree-Law No. 47 of 2022",
+    "article": "37",
+    "effective_date": "2023-06-01",
+    "text": "Article 37\nTax Loss Relief\n1. A Taxable Person may carry forward and use a Tax Loss to reduce the Taxable\n   Income of subsequent Tax Periods, subject to satisfying the continuity of\n   ownership and business conditions set out in this Decree-Law.\n2. The Tax Loss used to reduce Taxable Income in any Tax Period shall not exceed\n   75% (seventy-five percent) of the Taxable Income for that Tax Period before\n   any Tax Loss relief, with any unused amount carried forward indefinitely\n   subject to the same conditions.",
+    "source_path": "D:\\project\\Agent-mapping\\sample_data\\law_corpus\\decree_law_47_2022.txt",
+    "supersedes": ""
+  },
+  {
+    "chunk_id": "D_project_Agent-mapping_sample_data_law_corpus_fta_clarification_entertainment.txt__389cb50cb1::whole",
+    "law_name": "FTA Corporate Tax Guide CTGDBD1",
+    "decision_no": "FTA Guide CTGDBD1",
+    "article": "",
+    "effective_date": "2023-12-01",
+    "text": "FTA Corporate Tax Guide CTGDBD1 \u2014 Determination of Taxable Income, Section 8.4\n\nClient gifts, hospitality, staff parties and similar costs incurred to entertain\ncustomers, suppliers, shareholders or other business partners fall within the\nscope of \"entertainment, amusement or recreation expenditure\" under Article 32 of\nthe Corporate Tax Law, and are therefore only 50% deductible, regardless of\nwhether the cost was a reasonable and ordinary cost of doing business. This\nincludes meals, accommodation, transportation, admission fees and the cost of\ngifts provided in a client-relationship context. Staff welfare costs available to\nemployees generally (such as an annual staff party open to all employees, or\nroutine refreshments provided in the office) are not treated as entertainment\nexpenditure for this purpose and remain fully deductible as a staff cost, subject\nto the general deductibility conditions in Article 28.",
+    "source_path": "D:\\project\\Agent-mapping\\sample_data\\law_corpus\\fta_clarification_entertainment.txt",
+    "supersedes": ""
+  },
+  {
+    "chunk_id": "D_project_Agent-mapping_sample_data_law_corpus_ministerial_decision_qfzp_2023.txt__4749789f25::Art1::part1",
+    "law_name": "Ministerial Decision No. 139 of 2023",
+    "decision_no": "Ministerial Decision No. 139 of 2023",
+    "article": "1",
+    "effective_date": "2023-06-01",
+    "text": "Article 1\nQualifying Activities\nFor the purposes of Article 18 of the Decree-Law, Qualifying Activities include:\n   a. Manufacturing of goods or materials.\n   b. Holding of shares and other securities for investment purposes.\n   c. Ownership, management and operation of ships.\n   d. Reinsurance services that are subject to the regulatory oversight of the\n      competent authority.\n   e. Fund management services that are subject to the regulatory oversight of\n      the competent authority.\n   f. Wealth and investment management services that are subject to the\n      regulatory oversight of the competent authority.\n   g. Headquarter services to Related Parties.\n   h. Treasury and financing services to Related Parties.\n   i. Financing and leasing of aircraft, including engines and rotable\n      components.\n   j. Distribution of goods or materials from a Designated Zone to customers\n      that resell such goods, or materials, or process or alter them.\n   k. Logistics services.",
+    "source_path": "D:\\project\\Agent-mapping\\sample_data\\law_corpus\\ministerial_decision_qfzp_2023.txt",
+    "supersedes": ""
+  },
+  {
+    "chunk_id": "D_project_Agent-mapping_sample_data_law_corpus_ministerial_decision_qfzp_2023.txt__4749789f25::Art2::part2",
+    "law_name": "Ministerial Decision No. 139 of 2023",
+    "decision_no": "Ministerial Decision No. 139 of 2023",
+    "article": "2",
+    "effective_date": "2023-06-01",
+    "text": "Article 2\nExcluded Activities\nExcluded Activities, income from which will never be Qualifying Income even if\notherwise connected to a Qualifying Activity, include:\n   a. Transactions with natural persons, except in relation to Qualifying\n      Activities under sub-paragraphs (c), (d), (e), (f) and (i) of Article 1.\n   b. Banking activities that are subject to the regulatory oversight of the\n      competent authority.\n   c. Insurance activities other than reinsurance.\n   d. Finance and leasing activities other than those specified in Article 1.\n   e. Ownership or exploitation of immovable property, other than Commercial\n      Property located in a Free Zone where the transaction is with another\n      Free Zone Person.\n   f. Ownership or exploitation of intellectual property assets.\n   g. Any ancillary activities that do not meet the de minimis threshold.",
+    "source_path": "D:\\project\\Agent-mapping\\sample_data\\law_corpus\\ministerial_decision_qfzp_2023.txt",
+    "supersedes": ""
+  }
+]

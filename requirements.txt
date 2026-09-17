@@ -1,0 +1,19 @@
+# Core — everything demo.py and the test suite need, no API keys required.
+pandas>=2.0
+openpyxl>=3.1
+numpy>=1.26
+scikit-learn>=1.3
+pypdf>=4.0
+pdfplumber>=0.10
+scipy>=1.11
+
+# HTTP layer (app/api/main.py) — not required to run the pipeline itself.
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+
+# Swap in for production RAG components (see README "Swapping in production
+# components"). Neither is imported unless you wire them in.
+# openai>=1.30
+# anthropic>=0.25
+# sentence-transformers>=2.7

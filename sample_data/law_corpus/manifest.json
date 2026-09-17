@@ -1,0 +1,30 @@
+[
+  {
+    "file": "decree_law_47_2022.txt",
+    "law_name": "Federal Decree-Law No. 47 of 2022",
+    "decision_no": "Federal Decree-Law No. 47 of 2022",
+    "effective_date": "2023-06-01",
+    "supersedes": ""
+  },
+  {
+    "file": "cabinet_decision_73_2023.txt",
+    "law_name": "Cabinet Decision No. 73 of 2023",
+    "decision_no": "Cabinet Decision No. 73 of 2023",
+    "effective_date": "2023-06-01",
+    "supersedes": ""
+  },
+  {
+    "file": "ministerial_decision_qfzp_2023.txt",
+    "law_name": "Ministerial Decision No. 139 of 2023",
+    "decision_no": "Ministerial Decision No. 139 of 2023",
+    "effective_date": "2023-06-01",
+    "supersedes": ""
+  },
+  {
+    "file": "fta_clarification_entertainment.txt",
+    "law_name": "FTA Corporate Tax Guide CTGDBD1",
+    "decision_no": "FTA Guide CTGDBD1",
+    "effective_date": "2023-12-01",
+    "supersedes": ""
+  }
+]

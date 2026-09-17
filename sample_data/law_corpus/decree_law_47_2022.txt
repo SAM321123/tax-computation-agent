@@ -1,0 +1,91 @@
+Federal Decree-Law No. 47 of 2022 on the Taxation of Corporations and Businesses
+
+Article 3
+Corporate Tax Rate
+1. Corporate Tax shall be imposed on the Taxable Income of a Taxable Person at the
+   following rates:
+   a. 0% (zero percent) on the portion of Taxable Income not exceeding AED 375,000.
+   b. 9% (nine percent) on the portion of Taxable Income exceeding AED 375,000.
+2. A Qualifying Free Zone Person shall be subject to Corporate Tax at the rate of 0%
+   on Qualifying Income and 9% on Taxable Income that is not Qualifying Income, as
+   further specified in Article 18 of this Decree-Law.
+
+Article 18
+Qualifying Free Zone Person
+1. A Qualifying Free Zone Person shall benefit from a rate of 0% on its Qualifying
+   Income, provided the conditions in this Article and any relevant Ministerial
+   Decision are met, including maintaining adequate substance in the Free Zone,
+   deriving Qualifying Income as specified by Cabinet Decision, and complying with
+   the arm's length principle and transfer pricing documentation requirements.
+2. Qualifying Income includes income derived from transactions with other Free Zone
+   Persons that are Qualifying Free Zone Persons, and income derived from qualifying
+   activities as specified in a Ministerial Decision, excluding Excluded Activities.
+
+Article 22
+Exempt Income
+1. Dividends and other profit distributions received from a juridical person that
+   is a Resident Person shall be exempt from Corporate Tax.
+2. Dividends and other profit distributions received from a Participating Interest
+   in a foreign juridical person shall be exempt, subject to meeting the
+   Participating Interest conditions of ownership percentage and minimum holding
+   period set out in a Cabinet Decision.
+
+Article 23
+Participation Exemption
+1. A gain or loss arising from the transfer, sale, or other disposition of a
+   Participating Interest shall be exempt from Corporate Tax, provided the
+   Participating Interest conditions are satisfied at the time of disposal,
+   including a minimum ownership interest of 5% held for an uninterrupted period
+   of at least 12 months.
+
+Article 28
+Interest
+1. Interest expenditure shall be deductible in the Tax Period in which it is
+   incurred, subject to the general interest deduction limitation rule in Article 30
+   and any specific interest limitation rules applicable to related party
+   transactions.
+
+Article 30
+General Interest Deduction Limitation Rule
+1. Net Interest Expenditure shall be deductible up to 30% (thirty percent) of the
+   Taxable Person's EBITDA for the relevant Tax Period, adjusted for interest,
+   depreciation and amortisation.
+2. Notwithstanding paragraph 1, a Taxable Person may deduct Net Interest
+   Expenditure up to AED 12,000,000 (twelve million dirhams) regardless of the
+   30% of EBITDA limitation, being the de minimis threshold.
+3. Any Net Interest Expenditure disallowed under this Article may be carried
+   forward and deducted in the subsequent ten Tax Periods, subject to the same
+   limitation.
+
+Article 32
+Entertainment Expenditure
+1. Expenditure incurred for entertainment, amusement or recreation of customers,
+   shareholders, suppliers or other business partners shall be deductible only to
+   the extent of 50% (fifty percent) of such expenditure.
+2. Fifty percent (50%) of entertainment, amusement and recreation expenditure is
+   non-deductible in determining Taxable Income, regardless of whether the
+   expenditure was incurred wholly and exclusively for the purposes of the
+   Business.
+
+Article 33
+Non-Deductible Expenditure
+1. The following expenditure shall not be deductible in determining Taxable
+   Income:
+   a. Donations, grants or gifts made to an entity that is not a Qualifying Public
+      Benefit Entity.
+   b. Fines and penalties, other than amounts awarded as compensation for damages
+      or breach of contract.
+   c. Bribes or other illicit payments.
+   d. Dividends, profit distributions or benefits of a similar nature paid to an
+      owner of the Taxable Person.
+   e. Corporate Tax imposed on the Taxable Person under this Decree-Law.
+
+Article 37
+Tax Loss Relief
+1. A Taxable Person may carry forward and use a Tax Loss to reduce the Taxable
+   Income of subsequent Tax Periods, subject to satisfying the continuity of
+   ownership and business conditions set out in this Decree-Law.
+2. The Tax Loss used to reduce Taxable Income in any Tax Period shall not exceed
+   75% (seventy-five percent) of the Taxable Income for that Tax Period before
+   any Tax Loss relief, with any unused amount carried forward indefinitely
+   subject to the same conditions.
